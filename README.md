@@ -1,9 +1,8 @@
 ### Hi! Welcome to my page.
 ## I'm: 
-- a recent Comp Sci grad from UNC Chapel Hill
-- actively looking for a full time position as a software engineer
+- an Associate Software Engineer at Infosys
 - currently working on a website for my family's small business
-- currently learning C++
+- currently learning C++ and C#
 
 <!--
 **jerte/jerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
