@@ -1,9 +1,8 @@
 ### Hi! Welcome to my page.
 ## I'm: 
 - a UNC Comp Sci grad, c/o 2020
-- an Associate Software Engineer at Infosys
-- currently working on a website for my family's small business
-- currently working on a secret side project 
+- an Associate Software Engineer at Jaggaer
+- a part time oyster farmer
 
 <!--
 **jerte/jerte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
